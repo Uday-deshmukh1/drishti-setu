@@ -213,6 +213,25 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.streamlit/secrets.toml
 
+# Flutter/Dart
+**/build/
+.dart_tool/
+.flutter-plugin-generated/
+*.iml
+*.ipr
+*.iws
+.pub-cache/
+.pub/
+/app/android/.gradle/
+/app/android/local.properties
+/app/android/app/debug/
+/app/android/app/profile/
+/app/android/app/release/
+/app/ios/Flutter/flutter_export_environment.sh
+/app/ios/Pods/
+/app/ios/.symlinks/
+.flutter-versions
 # Streamlit
 .streamlit/secrets.toml
