@@ -1,0 +1,31 @@
+name: drishti_setu
+description: "AI-powered crowd monitoring and emergency response for Pandharpur Wari"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  geolocator: ^13.0.2
+  http: ^1.2.2
+  flutter_tts: ^4.2.2
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  shared_preferences: ^2.3.4
+  fl_chart: ^0.69.2
+  camera: ^0.11.0+2
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/labels.txt

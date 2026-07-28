@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+scikit-learn
+numpy
+fastapi
+uvicorn
+python-multipart
+firebase-admin
