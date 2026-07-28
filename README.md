@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # drishti_setu
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# drishti-setu
+AI-powered crowd monitoring &amp; emergency response system for the Pandharpur Wari — built for Varithon 2026 HACKTON
+>>>>>>> 114f4d271eacc1f3b1351d82fb9ceae85a439733
